@@ -1,4 +1,4 @@
-# Wiki_STL
-C++標準ライブラリのメモ  
+# Wiki_CPP
+C++言語のメモ
 
 詳細はWikiに記載
